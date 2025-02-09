@@ -10,4 +10,4 @@ Controls specific to [>_TER]RAFORM are below (found in `Interpreter.cs`):
  - Temporary Platform: Left Shift
  - Destroy: X (you won't be able to see this one in action in this framework)
 
-Background pulsing and music are also included, but that was mainly because I was too lazy to take it out.
+Background pulsing and music are also included, but that was mainly because I was too lazy to take it out. Open the scene `StoryMode` to get started (`Assets/Scenes/StoryMode`)
